@@ -1,5 +1,7 @@
 # Comprehensive Academic Profile and Research Portfolio: Dr. Ayat Mohebifar
 
+![Dr. Ayat Mohebifar](https://raw.githubusercontent.com/ayatmohebifar/ayatmohebifar.github.io/main/avatar.jpg)
+
 ## Scientific Vision and Research Mission
 
 Dr. Ayat Mohebifar, a distinguished specialist in genetics and oncology, with a profound and interdisciplinary approach, represents a true bridge between basic laboratory research (Bench) and clinical applications (Bedside) in medical sciences. His scientific and research activities cover a broad spectrum, ranging from the rigorous investigation of mitochondrial DNA (mtDNA) mutations in tumor progression and drug resistance, to the utilization of biomaterials, nanotechnology, and phytochemical compounds to induce programmed cell death pathways.
